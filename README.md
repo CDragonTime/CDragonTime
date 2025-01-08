@@ -8,7 +8,7 @@ I'm C-Dragon currently living in China ChangSha.
 - 👨‍💻 主要使用 React、Vue、TypeScript、[antd](https://ant.design/)、[Electron](https://www.electronjs.org) 相关技术进行日常开发工作。
 - ✍️ 正在学习 [Rust](https://rust-lang.org/)、[WebAssembly](https://webassembly.org/)。维护自己的 [Blog](https://baidu.com)。
 - 🤩 喜欢 [探索 Github](https://github.com/explore) 上有趣项目，可以看看我整理的 [Stars](https://github.com)。
-- 🤔 参与过的开源项目[FlyFish](https://github.com/CloudWise-OpenSource/FlyFish)，成果：[原公司核心贡献留痕](https://www.cloudwise.ai/404.html)。
+- 🤔 参与过的开源项目[FlyFish](https://github.com/CloudWise-OpenSource/FlyFish)，成果：[核心贡献介绍](https://www.cloudwise.ai/404.html)。
 - 💬 WeChat: `echo YTE1NTc0OTcwNDEw | base64 -D`
 
 **Languages and Tools**
