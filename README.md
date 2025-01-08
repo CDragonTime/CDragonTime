@@ -1,8 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>码龙</h1>
 
-<p>Welcome to my page! </br> I'm C-Dragon <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in China ChangSha. </p>
-<h3>前端工程师，2020 毕业参加工作，现居🇨🇳湖南长沙。正积极参与开源，通常活跃在 Ant Design、UmiJS 等社区。</h3>
-<h3>My latest posts</h3>
+<h4>Welcome to my page! </br> I'm C-Dragon currently living in China ChangSha. </h4>
+<p>前端工程师，2020 毕业参加工作，现居🇨🇳湖南长沙。正积极参与开源，通常活跃在 Ant Design、UmiJS 等社区。</p>
 <ul>
   <li>👨‍💻 主要使用 <a href="https://react.docschina.org/">React</a>、<a href="https://cn.vuejs.org/">Vue</a>、TypeScript、antd、Electron 相关技术进行日常开发工作。</li>
   <li>✍️ 正在学习 Rust、WebAssembly。维护自己的 Blog。</li>
