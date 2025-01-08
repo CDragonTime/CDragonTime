@@ -3,11 +3,12 @@
 Welcome to my page!  
 I'm C-Dragon currently living in China ChangSha.
 
-前端工程师，2020 毕业参加工作，现居 🇨🇳 湖南长沙。正积极参与开源，通常活跃在 Ant Design、UmiJS 等社区。
+前端工程师，2020 毕业参加工作，曾任职于云智慧，现在职于 Webull。正积极参与开源，通常活跃在 Ant Design、UmiJS 等社区。
 
 - 👨‍💻 主要使用 React、Vue、TypeScript、[antd](https://ant.design/)、[Electron](https://www.electronjs.org) 相关技术进行日常开发工作。
 - ✍️ 正在学习 [Rust](https://rust-lang.org/)、[WebAssembly](https://webassembly.org/)。维护自己的 [Blog](https://baidu.com)。
 - 🤩 喜欢 [探索 Github](https://github.com/explore) 上有趣项目，可以看看我整理的 [Stars](https://github.com)。
+- 🤔 参与过的开源项目[FlyFish](https://github.com/CloudWise-OpenSource/FlyFish)，成果：[原公司核心贡献留痕](https://www.cloudwise.ai/404.html)。
 - 💬 WeChat: `echo YTE1NTc0OTcwNDEw | base64 -D`
 
 **Languages and Tools**
@@ -30,6 +31,6 @@ I'm C-Dragon currently living in China ChangSha.
 
 ### Open source projects
 
-| 🎁 Projects                                                                                   | ⭐ Stars                                                                                                           | 📚 Forks                                                                                                           | 🛎 Issues                                                                                                            | 📬 Pull requests                                                                                                       |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [**React PullToRefresh component**](https://github.com/thmsgbrt/react-simple-pull-to-refresh) | ![](https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41) |
+| 🎁 Projects                                                    | ⭐ Stars                                                                                                  | 📚 Forks                                                                                                  | 🛎 Issues                                                                                                   |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [**FlyFish**](https://github.com/CloudWise-OpenSource/FlyFish) | ![](https://img.shields.io/github/stars/CloudWise-OpenSource/FlyFish?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/CloudWise-OpenSource/FlyFish?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/issues/CloudWise-OpenSource/FlyFish?style=flat-square&labelColor=343b41) |
