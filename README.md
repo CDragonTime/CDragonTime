@@ -1,14 +1,17 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>码龙</h1>
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>码龙</h1>
 
 <h4>Welcome to my page! </br> I'm C-Dragon currently living in China ChangSha. </h4>
 <p>前端工程师，2020 毕业参加工作，现居🇨🇳湖南长沙。正积极参与开源，通常活跃在 Ant Design、UmiJS 等社区。</p>
-<ul>
-  <li>👨‍💻 主要使用 <a href="https://react.docschina.org/">React</a>、<a href="https://cn.vuejs.org/">Vue</a>、TypeScript、antd、Electron 相关技术进行日常开发工作。</li>
-  <li>✍️ 正在学习 Rust、WebAssembly。维护自己的 Blog。</li>
-  <li>🤩 喜欢 探索 Github 上有趣项目，可以看看我整理的 Stars。</li>
-  <li>👨‍💻 主要使用 React、Vue、TypeScript、antd、Electron 相关技术进行日常开发工作。</li>
-  <li>🌟 You can type npx wxh16144 in the terminal to learn more.</li>
-</ul>
+- 👨‍💻 主要使用 React、Vue、TypeScript、[antd](https://ant.design/)、[Electron](https://www.electronjs.org) 相关技术进行日常开发工作。
+- ✍️ 正在学习 [Rust](https://rust-lang.org/)、[WebAssembly](https://webassembly.org/)。维护自己的 [Blog](https://baidu.com)。
+- 🤩 喜欢 [探索 Github](https://github.com/explore) 上有趣项目，可以看看我整理的 [Stars](https://github.com)。
+- 💬 WeChat: `echo YTE1NTc0OTcwNDEw | base64 -D`
+
+![My GitHub stars](https://img.shields.io/github/stars/cdragontime)
+![My GitHub show](https://api.visitorbadge.io/api/visitors?path=https://github.com/cdragontime&style=flat)
+[![Total code time](https://wakatime.com/badge/user/2690c7c0-e145-4796-b565-ca89172d1565.svg)](https://wakatime.com/@cdragontime)
+
+**Languages and Tools**
 <code><a href="https://tc39.es/zh-Hans/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a></code>
 <code><a href="https://www.typescriptlang.org/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a></code>
 <code><a href="https://reactjs.org/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a></code>
@@ -22,6 +25,7 @@
 <code><a href="https://git-scm.com/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"></a></code>
 <code><a href="https://www.docker.com/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"></a></code>
 <code><a href="https://www.nginx.com/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"></a></code>
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
