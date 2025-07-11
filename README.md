@@ -3,10 +3,10 @@
 Welcome to my page!  
 I'm C-Dragon currently living in China ChangSha.
 
-前端工程师，2020 毕业参加工作，曾任职于云智慧，现在职于 Webull。正积极参与开源，通常活跃在 Ant Design、UmiJS 等社区。
+前端工程师，2020 毕业参加工作，曾任职于云智慧，现在职于[Webull](https://www.webull.com/)。正积极参与开源，通常活跃在 Ant Design、UmiJS 等社区。
 
 - 👨‍💻 主要使用 React、Vue、TypeScript、[antd](https://ant.design/)、[Electron](https://www.electronjs.org) 相关技术进行日常开发工作。
-- 🔭 现就职于 [Webull](https://www.webull.com/)。维护自己的 [Blog](https://baidu.com)。
+- 🔭 维护自己的 [Blog](https://baidu.com)。
 - 🏗 开源项目贡献者[FlyFish](https://github.com/CloudWise-OpenSource/FlyFish)，成果：[核心贡献介绍](https://www.cloudwise.ai/404.html)。
 - 💬 WeChat: `echo YTE1NTc0OTcwNDEw | base64 -D`
 
